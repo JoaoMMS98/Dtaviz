@@ -1,5 +1,5 @@
 streamlit
-streamlit_option_menu import option_menu
+streamlit_option_menu
 pandas
 plotly
 matplotlib.pyplot
